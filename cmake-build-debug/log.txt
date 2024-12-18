@@ -1,0 +1,17 @@
+Knight NPC38 убил Squirrel NPC42
+Knight NPC18 убил Squirrel NPC22
+Squirrel NPC19 убил Pegasus NPC28
+Squirrel NPC12 убил Pegasus NPC40
+Knight NPC2 убил Squirrel NPC12
+Knight NPC0 убил Squirrel NPC25
+Knight NPC13 убил Squirrel NPC26
+Knight NPC30 убил Squirrel NPC32
+Knight NPC34 убил Squirrel NPC39
+Knight NPC38 убил Squirrel NPC48
+Squirrel NPC1 убил Pegasus NPC21
+Knight NPC14 убил Squirrel NPC37
+Knight NPC35 убил Squirrel NPC45
+Squirrel NPC19 убил Pegasus NPC46
+Knight NPC0 убил Squirrel NPC27
+Knight NPC2 убил Squirrel NPC19
+Knight NPC0 убил Squirrel NPC1

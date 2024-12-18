@@ -1,0 +1,15 @@
+# ninja log v5
+1	2078	7562481251890612	CMakeFiles/lab_OOP_7.dir/main.cpp.obj	45c9212afa4cedd4
+2083	3152	7562481261532198	lab_OOP_7.exe	377cb877bf3e155f
+1	641	7562491859937102	build.ninja	f2c53321e1b7ebff
+1	383	7562491859937102	build.ninja	f2c53321e1b7ebff
+27	2504	7562491884955454	CMakeFiles/lab_OOP_7.dir/src/ConsoleObserver.cpp.obj	eaa50c415dfec140
+14	2621	7562491887342301	CMakeFiles/lab_OOP_7.dir/src/Pegasus.cpp.obj	4baf14ab2abec6f9
+71	2657	7562491887422318	CMakeFiles/lab_OOP_7.dir/src/FileObserver.cpp.obj	49b046e554ec9afd
+1	2743	7562491888934023	CMakeFiles/lab_OOP_7.dir/src/Knight.cpp.obj	462d11ad0dfc0d15
+8	2790	7562491888783993	CMakeFiles/lab_OOP_7.dir/src/Squirrel.cpp.obj	7d07f1f866476c5b
+78	2853	7562491889454154	CMakeFiles/lab_OOP_7.dir/src/main.cpp.obj	75d118e2e7a6f833
+64	2898	7562491890354342	CMakeFiles/lab_OOP_7.dir/src/Factory.cpp.obj	5331d4cef7bc9949
+84	2951	7562491890964486	CMakeFiles/lab_OOP_7.dir/src/NPC.cpp.obj	6f02b0f9a0254368
+21	4755	7562491909018105	CMakeFiles/lab_OOP_7.dir/src/Game.cpp.obj	40c4f2aed876c860
+4756	5314	7562491914539625	lab_OOP_7.exe	8787bcc9cb80d68
